@@ -1,0 +1,8 @@
+[package]
+name = "flow_reassembler"
+version = "0.1.0"
+authors = ["Nick Price <nick@spun.io>"]
+
+[dependencies]
+nom = "3.2"
+pktparse = "0.2"
